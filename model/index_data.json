@@ -1,0 +1,15 @@
+{
+  "header" : {
+      "title" : "Al-Saif Gallery - Branches Location",
+      "css" : ["/normalize-css/normalize.css" , "essential.css", "style.css", "/animate.css/animate.min.css"],
+      "js" : []
+    },
+  "body" : {
+      "view" : "index_main.php",
+      "miniController" : ["branch_view_controller.php"],
+      "content": {
+
+      },
+      "js" : []
+  }
+}
